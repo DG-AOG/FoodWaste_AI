@@ -26,5 +26,5 @@ An AI-Powered Food Waste Intelligence and Decision-Support MVP
 - **Scenario Simulation:** Explores "what-if" intervention strategies for waste reduction.
 
 - **Language:** Python
-- **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Shap, Gradio
 - **Environment:** Google Colab
